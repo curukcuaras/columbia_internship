@@ -1,0 +1,44 @@
+body {
+    background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/background-wallpapers-7.jpg");
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    background-color:#464646;
+}
+html{100%}
+h2 {
+    color:white;
+    text-align:left;
+    align:left;
+}
+h3 {
+    color:white;
+    text-align:left;
+    align:left;
+}
+p {
+    color:white;
+    font-family:
+    font-size:100%;
+    text-align:left;
+    align:left;
+}
+a {
+    color:orange
+}
+.title {
+    color:white;
+}
+.person-title {
+    color:white;
+}
+#content {
+    position:relative;
+}
+#content img {
+    position:absolute;
+    top:0px;
+    right:0px;
+    float:right
+}
